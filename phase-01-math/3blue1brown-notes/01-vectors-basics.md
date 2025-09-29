@@ -3,7 +3,7 @@
 **📅 Date**: [29-09-2025]  
 **⏱️ Duration**: 9:52  
 **🔗 Link**: https://youtu.be/fNk_zzaMoSs  
-**📊 Status**: ⏳ Not Started
+**📊 Status**: Finished
 
 ---
 

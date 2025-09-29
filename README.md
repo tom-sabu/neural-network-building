@@ -1,8 +1,8 @@
 # 🚀 Neural Networks + Vulkan Learning Journey
 
 **Goal**: Build neural networks using Vulkan and C++ from scratch  
-**Started**: [TODAY'S DATE]  
-**Estimated Completion**: [TODAY'S DATE + 7 MONTHS]
+**Started**: [29-09-2025]  
+**Estimated Completion**: [29-09-2025 + 7 MONTHS]
 
 ## 🎯 Current Status
 **Phase 1: Mathematical Foundations** | Week 1/28  
@@ -48,11 +48,11 @@ Currently watching: 3Blue1Brown Linear Algebra Video 1
 
 ## 📊 Current Week Stats
 - **Days studied**: 1/7
-- **Videos completed**: 0/3
+- **Videos completed**: 1/3
 - **Code written**: 0 lines
-- **Concepts mastered**: 0
+- **Concepts mastered**: 1
 
 ---
 
-*Last updated: [TODAY'S DATE]*  
+*Last updated: [29-09-2025]*  
 *Next update: Weekly on Sundays*
