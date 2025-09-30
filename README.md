@@ -6,7 +6,7 @@
 
 ## 🎯 Current Status
 **Phase 1: Mathematical Foundations** | Week 1/28  
-Currently watching: 3Blue1Brown Linear Algebra Video 1
+Currently watching: 3Blue1Brown Linear Algebra Video 2
 
 ### This Week's Focus
 - [ ] Complete 3Blue1Brown videos 1-3
