@@ -22,20 +22,20 @@ Watch Video 2 about linear combinations and span
 
 ---
 
-## 2024-10-01 - Day 2
+## 30-09-2025 - Day 2
 
-**⏰ Time Invested**: __ hours  
-**📚 Main Activity**:   
-**💻 Code Written**:   
+**⏰ Time Invested**: 1.5 hours  
+**📚 Main Activity**:   On day two I didn't actually learned anything I was just solving some problems I made the day before, Not particularly a problems but some change's in arrangements of the file structure, updated and included some files. Also I did try to write program for the first video (not finished), implementing addition and multiplication of vectors. What I learned while coding was that (using AI 😅), there are so many concepts there in c++ that I need to learn, I generate the code using AI and tried to understand it but can't and that's the end of my day, I was busy later. 
+**💻 Code Written**:   As I mentioned above I tried to write, but not able to.
 
-**🧠 Key Insight**: 
+**🧠 Key Insight**:  *I understand that i need to learn c++ some more, all that i know now is some basic things  about c. Didn't got the time to watch the second video.*
 
-**❓ Questions/Stuck On**:
+**❓ Questions/Stuck On**: Got stuck while coding.
 
-**🎯 Tomorrow's Goal**: 
+**🎯 Tomorrow's Goal**:  Want to understand the concepts behind the code i generated with the AI
 
-**🌟 Motivation Level**: __/10  
-**📊 Understanding Level**: __/10
+**🌟 Motivation Level**: 6/10  
+**📊 Understanding Level**: 4/10
 
 ---
 
