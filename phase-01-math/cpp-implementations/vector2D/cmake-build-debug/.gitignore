@@ -1,0 +1,15 @@
+# Ignore everything
+*
+
+# But keep .gitignore itself
+!.gitignore
+
+# Keep source code files
+!*.cpp
+!*.h
+
+# Keep CMake configuration if needed
+!CMakeLists.txt
+
+# Optionally, keep text files (if you want)
+#!*.txt

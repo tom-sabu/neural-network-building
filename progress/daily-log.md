@@ -39,18 +39,20 @@ Watch Video 2 about linear combinations and span
 
 ---
 
-## 2024-10-02 - Day 3
+## 01-10-2025 - Day 3
 
-**⏰ Time Invested**: __ hours  
-**📚 Main Activity**:   
-**💻 Code Written**:   
+**⏰ Time Invested**: 3 hours  
+	**📚 Main Activity**:   Learning c++, yesterday i found out that i am whole beginner in c++ coding, so I started reading an article called "LEARN C++" on https://www.learncpp.com/, today again i tried to understand the first videos code, guess what, I still didn't understand a thing, that's why i started reading hehe.
+	I didn't directly jump into the part where i try to understand, I clicked some topics that i found i need a recall and there i found concepts in c++ that is new to me. Then i end my day there (no further progress in video series)
+**💻 Code Written**:   No code written today.
 
-**🧠 Key Insight**: 
+**🧠 Key Insight**: *While reading the article i found out some concepts that i didn't know before, which is, when we declare a function always declare it before the main because otherwise the compiler wouldn't be able to find that function, result's in runtime error. But there is a counter mentioned in the article they called it "forward declaration". A **forward declaration** allows us to tell the compiler about the existence of an identifier _before_ actually defining the identifier.
+That's all for today.*
 
-**🎯 Tomorrow's Goal**: 
+**🎯 Tomorrow's Goal**: Just like today, want to understand the code, and second watch the next video on the series.
 
-**🌟 Motivation Level**: __/10  
-**📊 Understanding Level**: __/10
+**🌟 Motivation Level**: 7/10  
+**📊 Understanding Level**: 6/10
 
 ---
 
