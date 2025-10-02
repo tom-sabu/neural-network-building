@@ -1,58 +1,107 @@
 # 🚀 Neural Networks + Vulkan Learning Journey
 
 **Goal**: Build neural networks using Vulkan and C++ from scratch  
-**Started**: [29-09-2025]  
-**Estimated Completion**: [29-09-2025 + 7 MONTHS]
+**Started**: 29 September 2025  
+**Estimated Completion**: April 2026 (7 months)
+
+---
 
 ## 🎯 Current Status
-**Phase 1: Mathematical Foundations** | Week 1/28  
-Currently watching: 3Blue1Brown Linear Algebra Video 2
+**Phase 1A: C++ Fundamentals** | Week 1/30 (adjusted timeline)  
+Currently learning: C++ classes and objects from learncpp.com
 
 ### This Week's Focus
-- [ ] Complete 3Blue1Brown videos 1-3
-- [ ] Implement basic Vector2D class in C++
-- [ ] Create visual intuition notes
-- [ ] Connect concepts to neural networks
+- [x] Identify C++ knowledge gaps (Day 1-3)
+- [ ] Complete learncpp.com Chapter 13: Introduction to Classes
+- [ ] Understand const correctness and references
+- [ ] Practice with simple class exercises
+- [ ] Watch 3Blue1Brown Video 2 (theory only, no coding yet)
+
+---
 
 ## 📊 Overall Progress
 
 | Phase | Status | Duration | Key Achievements |
 |-------|--------|----------|------------------|
-| 1. Math Foundations | 🟡 In Progress | 0/3 weeks | Starting with vectors and linear algebra |
-| 2. C++ Enhancement | ⏸️ Planned | 0/2 weeks | Modern C++ features |
+| **1A. C++ Fundamentals** | 🟡 In Progress | 1/2 weeks | Identified learning needs, started learncpp.com |
+| 1B. Math Foundations | ⏸️ Planned | 0/3 weeks | Watched Video 1 (theory understood) |
+| 2. C++ Enhancement | ⏸️ Planned | 0/2 weeks | Smart pointers, modern C++ |
 | 3. Neural Networks | ⏸️ Planned | 0/4 weeks | From scratch implementation |
-| 4. Graphics Basics | ⏸️ Planned | 0/3 weeks | GPU architecture understanding |
-| 5. Vulkan API | ⏸️ Planned | 0/8 weeks | Compute shaders and GPU programming |
+| 4. Graphics Basics | ⏸️ Planned | 0/3 weeks | GPU architecture |
+| 5. Vulkan API | ⏸️ Planned | 0/8 weeks | Compute shaders |
 | 6. Advanced NN | ⏸️ Planned | 0/3 weeks | Modern architectures |
 | 7. Final Project | ⏸️ Planned | 0/6 weeks | Vulkan neural network framework |
 
-**Total Progress**: 0/28 weeks (0%)
+**Total Progress**: 1/30 weeks (3%)
+
+---
 
 ## 🏆 Major Milestones
+
+- [ ] Understand C++ classes and OOP basics
+- [ ] Implement Vector2D class properly
 - [ ] First working neural network (XOR) in C++
 - [ ] First Vulkan compute shader running
 - [ ] Matrix multiplication on GPU
 - [ ] Complete neural network training on GPU
 - [ ] MNIST classification working
 
+---
+
 ## 📚 Currently Using Resources
+
+**C++ Learning**:
+- [learncpp.com](https://www.learncpp.com/) - Primary C++ tutorial (Chapter 13+)
+- Focus: Classes, objects, const, references, headers
+
+**Math (Theory Only for Now)**:
 - [3Blue1Brown - Essence of Linear Algebra](https://youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
-- Personal C++ implementations and notes
-- [More resources in resources/learning-resources.md](./resources/learning-resources.md)
-
-## 🔗 Quick Navigation
-- **📈 [Weekly Progress Logs](./progress/)**
-- **📖 [Daily Learning Log](./progress/daily-log.md)**
-- **🧮 [Phase 1: Math](./phase-01-math/)**
-- **💻 [Code Implementations](./phase-01-math/cpp-implementations/)**
-
-## 📊 Current Week Stats
-- **Days studied**: 1/7
-- **Videos completed**: 1/3
-- **Code written**: 0 lines
-- **Concepts mastered**: 1
+- Watched: 1/15 videos (understanding vectors conceptually)
 
 ---
 
-*Last updated: [29-09-2025]*  
-*Next update: Weekly on Sundays*
+## 📊 Current Week Stats
+- **Days studied**: 3/7
+- **C++ concepts learned**: Forward declaration, function basics
+- **Videos watched**: 1/15 (theory understood)
+- **Code attempts**: Vector2D (identified knowledge gaps - good!)
+- **Honest realization**: Need C++ fundamentals before math implementation ✅
+
+---
+
+## 🔄 Learning Path Adjustment
+
+### Original Plan:
+Week 1-3: Linear Algebra + Implementation → **Hit C++ knowledge gap** ❌
+
+### Revised Plan (Current):
+**Week 1-2**: C++ Fundamentals (classes, objects, const, references)  
+**Week 3-5**: Linear Algebra + Implementation (with C++ confidence) ✅  
+**Week 6+**: Continue as planned
+
+**Why this works**: Building solid C++ foundation prevents frustration later!
+
+---
+
+## 💡 Key Learning Insight
+
+**From Day 3**: "I found out I'm a whole beginner in C++ coding"  
+**Response**: Perfect self-awareness! Taking 2 weeks to learn C++ properly will save months of frustration.
+
+**Strategy**: 
+- Morning: Learn C++ from learncpp.com
+- Evening: Watch 3Blue1Brown (theory/concepts only)
+- Week 3+: Implement math concepts with confidence
+
+---
+
+## 🔗 Quick Navigation
+- **📈 [Daily Progress Log](./progress/daily-log.md)**
+- **📖 [Week 1 Progress](./progress/week-01.md)**
+- **💻 [Phase 1A: C++ Fundamentals](./phase-01a-cpp-fundamentals/)**
+- **🧮 [Phase 1B: Math (Future)](./phase-01-math/)**
+
+---
+
+*Last updated: 01 October 2025*  
+*Next update: Sunday, 06 October 2025*
