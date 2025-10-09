@@ -1,6 +1,5 @@
-#pragma once
-
-#include <iostream>
+#ifndef vector2d_h
+#define vector2d_h
 
 class Vector2D {
     private:
@@ -19,3 +18,5 @@ class Vector2D {
 
         void print() const;
 };
+
+#endif

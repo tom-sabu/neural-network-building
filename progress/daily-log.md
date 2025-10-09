@@ -4,7 +4,7 @@
 
 ---
 
-## 29-09-2025 - Day 1: Starting the Journey!
+## 2025-09-29 - Day 1: Starting the Journey!
 
 **⏰ Time Invested**: 2.5 hours  
 **📚 Main Activity**: Watched 3Blue1Brown Video 1, implemented vector operations  
@@ -22,7 +22,7 @@ Watch Video 2 about linear combinations and span
 
 ---
 
-## 30-09-2025 - Day 2
+## 2025-09-30 - Day 2
 
 **⏰ Time Invested**: 1.5 hours  
 **📚 Main Activity**:   On day two I didn't actually learned anything I was just solving some problems I made the day before, Not particularly a problems but some change's in arrangements of the file structure, updated and included some files. Also I did try to write program for the first video (not finished), implementing addition and multiplication of vectors. What I learned while coding was that (using AI 😅), there are so many concepts there in c++ that I need to learn, I generate the code using AI and tried to understand it but can't and that's the end of my day, I was busy later. 
@@ -39,7 +39,7 @@ Watch Video 2 about linear combinations and span
 
 ---
 
-## 01-10-2025 - Day 3
+## 2025-10-01 - Day 3
 
 **⏰ Time Invested**: 3 hours  
 	**📚 Main Activity**:   Learning c++, yesterday i found out that i am whole beginner in c++ coding, so I started reading an article called "LEARN C++" on https://www.learncpp.com/, today again i tried to understand the first videos code, guess what, I still didn't understand a thing, that's why i started reading hehe.
@@ -56,33 +56,35 @@ That's all for today.*
 
 ---
 
-## 2024-10-03 - Day 4
+## 2025-10-02 - Day 4
 
-**⏰ Time Invested**: __ hours  
-**📚 Main Activity**:   
-**💻 Code Written**:   
+**⏰ Time Invested**: 3.5 hours  
+**📚 Main Activity**:  Just like yesterday, reading the article "LEARN C++". That's the only thing i did today, no progress on "linear algebra essential" video series.
+**💻 Code Written**:   No code written today.
 
-**🧠 Key Insight**: 
+**🧠 Key Insight**:  *Today was a major break-through for me, i learned some concepts that i have been missed to be able to understand the code i generated using AI for some vector calculations. I learned what a preprocessor is, what it does when we run the code, and about header files, how it reduces the complexity and runtime errors by writing forward declaration inside the header file.*
 
-**🎯 Tomorrow's Goal**: 
+**🎯 Tomorrow's Goal**: I want to continue reading the article of c++, also wanna continue watching the series if got time.
 
-**🌟 Motivation Level**: __/10  
-**📊 Understanding Level**: __/10
+**🌟 Motivation Level**: 6/10  
+**📊 Understanding Level**: 8/10
 
 ---
 
-## 2024-10-04 - Day 5
+## 2025-10-09 - Day 5
 
-**⏰ Time Invested**: __ hours  
-**📚 Main Activity**:   
-**💻 Code Written**:   
+**⏰ Time Invested**: 0.5 hours  
+**📚 Main Activity**:   Reading the article of C++ (earncpp.com)
+**💻 Code Written**:   No code written.
 
-**🧠 Key Insight**: 
+**🧠 Key Insight**: anything special i think, today i read about signed and unsigned integers, integers are divides into different types based on the maximum size of the value it can store: short, int, long, long long. Short can store only value that can be represented with 8-bit binaries(I think i modern systems, its 16-bit), similarly int can store up to 16-bit (modern 32), long can store up to 32-bit,and  long long can store up to 64-bit. And again these four can be divided further, signed and unsigned. Signed numbers can store values both negative and positive, whereas unsigned can store only positive values. both have their pros and cons (i don't have time to reflect that).
+That's the end of my day. 
+"There is no progress on the phases, i am still learning c++ basics, so it will take some time to get there, I think".
 
-**🎯 Tomorrow's Goal**: 
+**🎯 Tomorrow's Goal**: Read further.
 
-**🌟 Motivation Level**: __/10  
-**📊 Understanding Level**: __/10
+**🌟 Motivation Level**: 6/10  
+**📊 Understanding Level**: 8/10
 
 ---
 
