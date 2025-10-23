@@ -1,6 +1,5 @@
-# 🚀 Neural Networks + Vulkan Learning Journey
-
-**Goal**: Build neural networks using Vulkan and C++ from scratch  
+# 🚀 Neural Networks + CUDA Learning Journey
+**Goal**: Build neural networks using CUDA and C++ from scratch  
 **Started**: 29 September 2025  
 **Estimated Completion**: April 2026 (7 months)
 
@@ -20,7 +19,6 @@ Currently learning: C++ classes and objects from learncpp.com
 ---
 
 ## 📊 Overall Progress
-
 | Phase | Status | Duration | Key Achievements |
 |-------|--------|----------|------------------|
 | **1A. C++ Fundamentals** | 🟡 In Progress | 1/2 weeks | Identified learning needs, started learncpp.com |
@@ -28,28 +26,26 @@ Currently learning: C++ classes and objects from learncpp.com
 | 2. C++ Enhancement | ⏸️ Planned | 0/2 weeks | Smart pointers, modern C++ |
 | 3. Neural Networks | ⏸️ Planned | 0/4 weeks | From scratch implementation |
 | 4. Graphics Basics | ⏸️ Planned | 0/3 weeks | GPU architecture |
-| 5. Vulkan API | ⏸️ Planned | 0/8 weeks | Compute shaders |
+| 5. CUDA Programming | ⏸️ Planned | 0/8 weeks | Kernel programming, cuDNN |
 | 6. Advanced NN | ⏸️ Planned | 0/3 weeks | Modern architectures |
-| 7. Final Project | ⏸️ Planned | 0/6 weeks | Vulkan neural network framework |
+| 7. Final Project | ⏸️ Planned | 0/6 weeks | CUDA neural network framework |
 
 **Total Progress**: 1/30 weeks (3%)
 
 ---
 
 ## 🏆 Major Milestones
-
 - [ ] Understand C++ classes and OOP basics
 - [ ] Implement Vector2D class properly
 - [ ] First working neural network (XOR) in C++
-- [ ] First Vulkan compute shader running
-- [ ] Matrix multiplication on GPU
+- [ ] First CUDA kernel running on RTX 3060
+- [ ] Matrix multiplication on GPU with CUDA
 - [ ] Complete neural network training on GPU
-- [ ] MNIST classification working
+- [ ] MNIST classification working with Tensor Cores
 
 ---
 
 ## 📚 Currently Using Resources
-
 **C++ Learning**:
 - [learncpp.com](https://www.learncpp.com/) - Primary C++ tutorial (Chapter 13+)
 - Focus: Classes, objects, const, references, headers
@@ -57,6 +53,14 @@ Currently learning: C++ classes and objects from learncpp.com
 **Math (Theory Only for Now)**:
 - [3Blue1Brown - Essence of Linear Algebra](https://youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 - Watched: 1/15 videos (understanding vectors conceptually)
+
+---
+
+## 💻 Hardware
+**GPU**: NVIDIA GeForce RTX 3060 Laptop (6GB VRAM)
+- CUDA Cores: 3,840
+- Tensor Cores: Yes (perfect for neural networks!)
+- Compute Capability: 8.6 (Ampere architecture)
 
 ---
 
@@ -70,7 +74,6 @@ Currently learning: C++ classes and objects from learncpp.com
 ---
 
 ## 🔄 Learning Path Adjustment
-
 ### Original Plan:
 Week 1-3: Linear Algebra + Implementation → **Hit C++ knowledge gap** ❌
 
@@ -81,10 +84,14 @@ Week 1-3: Linear Algebra + Implementation → **Hit C++ knowledge gap** ❌
 
 **Why this works**: Building solid C++ foundation prevents frustration later!
 
+### Technology Switch:
+**Original**: Vulkan compute shaders  
+**Updated**: CUDA programming  
+**Reason**: CUDA is purpose-built for neural networks, has better ecosystem (cuDNN, cuBLAS), and is more efficient for ML workloads. Perfect match for RTX 3060's Tensor Cores!
+
 ---
 
 ## 💡 Key Learning Insight
-
 **From Day 3**: "I found out I'm a whole beginner in C++ coding"  
 **Response**: Perfect self-awareness! Taking 2 weeks to learn C++ properly will save months of frustration.
 
@@ -103,5 +110,5 @@ Week 1-3: Linear Algebra + Implementation → **Hit C++ knowledge gap** ❌
 
 ---
 
-*Last updated: 01 October 2025*  
-*Next update: Sunday, 06 October 2025*
+*Last updated: 23 October 2025*  
+*Next update: Sunday, 27 October 2025*
